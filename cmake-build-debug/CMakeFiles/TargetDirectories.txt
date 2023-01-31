@@ -1,3 +1,0 @@
-C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/CMakeFiles/Projet_bataille_navale.dir
-C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/CMakeFiles/rebuild_cache.dir

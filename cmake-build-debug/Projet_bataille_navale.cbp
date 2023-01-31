@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Projet_bataille_navale"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet_bataille_navale">
+				<Option output="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Projet_bataille_navale.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet_bataille_navale"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Projet_bataille_navale/fast">
+				<Option output="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Projet_bataille_navale.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 Projet_bataille_navale/fast"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/Boat.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/Inventory.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/fire_artillery.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/fire_bomb.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/fire_simple.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/fire_tactical.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/fonction.h">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/grid.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/grid_boat.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/is_alive.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/load.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/main.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/mode_active.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/save.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/show_grid.c">
+			<Option target="Projet_bataille_navale"/>
+		</Unit>
+		<Unit filename="C:/Users/Augustin Athane/CLionProjects/Pprojet_bataille_navale/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
